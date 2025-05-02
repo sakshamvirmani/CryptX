@@ -62,3 +62,15 @@ In the fast-evolving world of cryptocurrency, managing a portfolio can be challe
 
   * **RESTful APIs**
   * **WebSockets** (for real-time updates)
+
+Our Project
+![Screenshot 2025-05-02 082015](https://github.com/user-attachments/assets/acd78d99-609e-4f76-8c6c-f8c2ce16707b)
+![Screenshot 2025-05-02 082308](https://github.com/user-attachments/assets/ca886f52-89aa-4e72-9453-156c34eb8075)
+![Screenshot 2025-05-02 082328](https://github.com/user-attachments/assets/81b92242-288f-44d1-907e-91d4cec00ae0)
+![Screenshot 2025-05-02 082346](https://github.com/user-attachments/assets/1473b2a6-3f54-4d5c-9080-39beb929746d)
+![Screenshot 2025-05-02 082408](https://github.com/user-attachments/assets/cc98bad4-8be2-4717-9e64-f0c7bf4cc1a2)
+![Screenshot 2025-05-02 082433](https://github.com/user-attachments/assets/bfcb682c-0561-42d8-99ee-db136255f505)
+![Screenshot 2025-05-02 082449](https://github.com/user-attachments/assets/d5f1e5ca-eba4-4256-a27c-554ae751b29f)
+![Screenshot 2025-05-02 081809](https://github.com/user-attachments/assets/ee403bc1-28c6-443f-b783-51479961767d)
+
+
